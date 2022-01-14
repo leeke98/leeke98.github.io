@@ -11,7 +11,7 @@ categories: Azure IoT Central React
 
 - Setting Host API
 - Setting Authorization
-  <img src="assets/env_setting.png">
+  ![](../_assets/env_setting.png)
 
 ## Caution
 
