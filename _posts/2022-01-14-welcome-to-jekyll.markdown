@@ -11,7 +11,11 @@ categories: Azure IoT Central React
 
 - Setting Host API
 - Setting Authorization
-  ![env setting](../_assets/env_setting.png)
+
+```javascript
+REACT_APP_FUNCTION_CENTRAL_ENDPOINT = "Insert your API";
+REACT_APP_FUNCTION_CENTRAL_TOKEN = "Insert your auth token";
+```
 
 ## Caution
 
